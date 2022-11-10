@@ -6,7 +6,6 @@
 
 import pandas as pd
 #import missingno as mnso
-import plotly.express as px
 import os
 import plotly.graph_objects as go
 import numpy as np
@@ -15,6 +14,7 @@ import seaborn as sns
 #!pip install gapminder
 from gapminder import gapminder 
 import streamlit as st
+import plotly.express as px
 
 
 # In[2]:
