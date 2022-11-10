@@ -6,8 +6,7 @@
 
 import pandas as pd
 #import missingno as mnso
-#!pip install plotly
-import plotly as px
+import plotly.express as px
 import os
 import plotly.graph_objects as go
 import numpy as np
